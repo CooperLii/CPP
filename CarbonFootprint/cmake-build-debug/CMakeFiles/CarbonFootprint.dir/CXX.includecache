@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/82707/CLionProjects/CarbonFootprint/Bicycle.cpp
+Bicycle.h
+C:/Users/82707/CLionProjects/CarbonFootprint/Bicycle.h
+iostream
+-
+
+C:/Users/82707/CLionProjects/CarbonFootprint/Bicycle.h
+CarbonFootprint.h
+C:/Users/82707/CLionProjects/CarbonFootprint/CarbonFootprint.h
+
+C:/Users/82707/CLionProjects/CarbonFootprint/Building.cpp
+iostream
+-
+Building.h
+C:/Users/82707/CLionProjects/CarbonFootprint/Building.h
+
+C:/Users/82707/CLionProjects/CarbonFootprint/Building.h
+CarbonFootprint.h
+C:/Users/82707/CLionProjects/CarbonFootprint/CarbonFootprint.h
+
+C:/Users/82707/CLionProjects/CarbonFootprint/Car.cpp
+iostream
+-
+Car.h
+C:/Users/82707/CLionProjects/CarbonFootprint/Car.h
+
+C:/Users/82707/CLionProjects/CarbonFootprint/Car.h
+CarbonFootprint.h
+C:/Users/82707/CLionProjects/CarbonFootprint/CarbonFootprint.h
+
+C:/Users/82707/CLionProjects/CarbonFootprint/CarbonFootprint.h
+

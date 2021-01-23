@@ -1,0 +1,3 @@
+C:/Users/82707/CLionProjects/CarbonFootprint/cmake-build-debug/CMakeFiles/CarbonFootprint.dir
+C:/Users/82707/CLionProjects/CarbonFootprint/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/82707/CLionProjects/CarbonFootprint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
