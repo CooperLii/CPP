@@ -1,8 +1,4 @@
 /**
- * @author MingFang Li
- * Course: CSCI 333 - Programming Languages
- * Date: 03/01/2019
- * Assignment: 1
  * Project/Class Description:
  * This program has a base class Account and several derived classes which derive
  * from Account, this program overload credit and debit method to let customers deposit
